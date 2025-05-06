@@ -4,7 +4,7 @@ int main(){
 	int x = 5;
 	int y = 8;
 	
-	if (x == 8){
+	if (y == 8){
 		if (x == 5){
 			printf("@@@@@\n");
 		}
