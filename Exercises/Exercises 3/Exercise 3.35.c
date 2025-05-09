@@ -15,7 +15,7 @@ int main(){
 	num4 = (num/10)%10;
 	num5 = num%10;
 	
-	if(num1 == num5 && num2 && num4){
+	if(num1 == num5 && num2 == num4){
 		printf("The number is a Palindrome.");
 	}
 	else{
