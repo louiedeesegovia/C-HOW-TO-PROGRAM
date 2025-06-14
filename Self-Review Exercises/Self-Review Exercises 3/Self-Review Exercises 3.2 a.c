@@ -1,0 +1,11 @@
+#include<stdio.h>
+
+int main(){
+	int x;
+	x = x+1;
+	
+	printf("%d", x);
+	
+	
+	return 0;
+}
