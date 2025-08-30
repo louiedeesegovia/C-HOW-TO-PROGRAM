@@ -1,3 +1,5 @@
+//IDno. #00030
+
 #include <stdio.h>
 
 int main() {
@@ -24,4 +26,5 @@ int main() {
 
     return 0;
 }
+
 
