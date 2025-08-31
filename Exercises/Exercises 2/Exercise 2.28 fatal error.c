@@ -1,3 +1,5 @@
+//IDno. #00028
+
 #include<stdio.h>
 
 int main(){
@@ -6,4 +8,5 @@ int main(){
 	
 	printf("%d", x);
 }
+
 
