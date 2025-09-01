@@ -1,3 +1,5 @@
+//IDno. #00010
+
 #include<stdio.h>
 
 int main(){
@@ -25,3 +27,4 @@ int main(){
 	printf("The remainder of %d and %d is = %d\n", num1, num2, remainder);
 	
 }
+
