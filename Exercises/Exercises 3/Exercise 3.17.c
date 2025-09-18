@@ -1,4 +1,6 @@
-	/*
+//IDno. #00047	
+
+/*
 	PSEUDOCODE 
 	
 	START
@@ -58,3 +60,4 @@ int main(){
 	printf("\n\nThe overall average miles/gallon was %f", average);
 	return 0;
 }
+
