@@ -23,6 +23,7 @@ int main() {
 
 */
 
+//CORRECT CODE
 #include <stdio.h>
 
 void test() {
